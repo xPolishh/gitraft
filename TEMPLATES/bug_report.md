@@ -8,12 +8,12 @@ Provide as much detail as possible.
 Where it occurs?
 
 
-Steps to reproduce
+S̲T̲E̲P̲S̲ T̲O̲ R̲E̲P̲R̲O̲D̲U̲C̲E̲
 ____________________________________________________
 What to do
 
 
-Screenshots
+S̲C̲R̲E̲E̲N̲S̲H̲O̲T̲S̲
 ____________________________________________________
 Provide us with screenshots/recordings
 
