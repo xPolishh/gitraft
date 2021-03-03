@@ -1,7 +1,7 @@
 Bug report teplate.
 
 
-  Ｄｅｓｃｒｉｐｔｉｏｎ   ｏｆ  ｉｓｓｕｅ
+D̲E̲S̲C̲R̲I̲P̲T̲I̲O̲N̲ O̲F̲ I̲S̲S̲U̲E̲
 ____________________________________________________
 
 Provide as much detail as possible.
