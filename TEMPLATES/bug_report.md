@@ -18,3 +18,5 @@ Provide us with screenshots/recordings
 ____________________________________________________
 
 If fixed, these reports will appear on #solved-bugs channel (discord)
+
+Submit all issues to "issues" up here on github
