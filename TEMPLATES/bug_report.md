@@ -1,1 +1,10 @@
-tba
+Bug report teplate.
+I wanted to make it more fancy
+
+
+█▀▄ █▀▀ █▀ █▀▀ █▀█ █ █▀█ ▀█▀ █ █▀█ █▄░█   █▀█ █▀▀   █ █▀ █▀ █░█ █▀▀ ░
+█▄▀ ██▄ ▄█ █▄▄ █▀▄ █ █▀▀ ░█░ █ █▄█ █░▀█   █▄█ █▀░   █ ▄█ ▄█ █▄█ ██▄ ▄
+(Description of issue)
+__________________________________________________________________________
+
+Provide as much detail as possible.
