@@ -3,7 +3,7 @@ Minecraft Server project:
 
 More info here:
 
-https://discord.gg/Bf2DMqxGmb
+https://discord.gg/Rqnd3cEEBm
 
 This page is also page to report bugs with qzfcommands plugin (link when its realased)
 
