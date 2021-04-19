@@ -1,0 +1,22 @@
+// v0.1 
+// not finished
+
+.MOBS
+
+WARDEN
+KING_MIDAS
+MIDAS_SOLDIER
+NETHER
+WITHER_SOLDIER
+PIGLIN
+MEGALODON
+AXOLOTL
+MOUNT_GOAT
+GOLDEN_STATUE
+
+.CONCEPTMOBS
+
+enderdragon.ENDER
+obsidiantroll
+zombiemute
+zombiegiant
