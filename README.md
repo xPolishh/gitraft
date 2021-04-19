@@ -6,11 +6,12 @@ More info here:
 
 https://discord.gg/Rqnd3cEEBm
 
-This page is also page to report bugs with my plugin (link and name when its realased)
+This page is also page to report bugs with my plugins (link and name when they're realased)
 
-when you report bug in name type "bugsname - plugin/server"
+bug template:
+bug's_name, plugin/server, plugin_name
 
-(of course replace "bugsname" with name)
+(for bugs head to TEMPLATES folder on github (here) )
 
 # About:
 Gitraft is a Minecraft Server Project with some of my friends
