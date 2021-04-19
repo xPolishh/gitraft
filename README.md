@@ -21,3 +21,5 @@ TBA bc im kinda lazy owner & dev
 Polishh#8357   (discord)
 
 @itsfakepolish (twitter)
+
+probably something elese that i dont remember
