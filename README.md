@@ -1,4 +1,6 @@
 # Gitraft
+!!! WEBSITE DOESNT WORK !!!
+
 Minecraft Server project:
 
 More info here:
