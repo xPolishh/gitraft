@@ -19,4 +19,5 @@ TBA bc im kinda lazy owner & dev
 
 # Contact:
 Polishh#8357   (discord)
+
 @itsfakepolish (twitter)
