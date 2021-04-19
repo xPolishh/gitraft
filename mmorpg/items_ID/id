@@ -1,11 +1,13 @@
 //Full items spreadsheet is available here: https://docs.google.com/spreadsheets/d/1Ral-ITmT81FRwMwQ4N8dFbcp-xDG_KHWV4JNG_juag8/edit?usp=sharing
 //Updated on 4/19/2021 9:16am
 
+//Admin items are not listed here as they're not obtainable items and were just test items
+
 .ARMORS
-WITHER_HELM
-WITHER_CHEST
-WITHER_LEGS
-WITHER_BOOTS
+WITHER_HELM  
+WITHER_CHEST 
+WITHER_LEGS  
+WITHER_BOOTS  
 
 NETHERITE_HELM
 NETHERITE_CHEST
@@ -38,3 +40,8 @@ WARDEN_LEGS
 WARDEN_BOOTS
 
 .ITEMS
+
+NETHER_SWORD
+WITHER_SWORD
+B_WING_SWORD
+NETHER_STAR
