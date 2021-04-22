@@ -24,4 +24,8 @@ Polishh#8357   (discord)
 
 @itsfakepolish (twitter)
 
+polishgamerw@gmail.com
+
 probably something elese that i dont remember
+
+messaging me with discord will equal in almost insta-reply
